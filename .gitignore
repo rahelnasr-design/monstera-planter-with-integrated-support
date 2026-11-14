@@ -1,0 +1,12 @@
+# Local build and automation files
+work/
+
+# SolidWorks temporary and backup files
+~$*
+*.bak
+*.swp
+*.tmp
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
